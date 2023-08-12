@@ -1,0 +1,323 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.website
+{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.navbar-brand
+{
+	font-size: 2rem;
+	color: deeppink;
+}
+.col-lg-7
+{
+	margin: auto;
+	margin-top: 300px;
+}
+.container .navbar-brand:hover
+{
+	color: rgba(122, 0, 0, 0.6);
+}
+.nav-link
+{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-style: italic;
+}
+.nav-link:hover
+{
+	color:red;
+}
+.search
+{
+	height: 40px;
+	width: 150px;
+	border-radius: 60px;
+	outline: none;
+	border: 2px solid red;
+
+	margin-right: -20px;
+}
+.btn0
+{
+	height: 40px;
+	width: 100px;
+	outline: none;
+	border: none;
+	background: red;
+	color: white;
+	font-weight: 700;
+	border-radius: 60px;
+}
+.main
+{
+background-image:url("/static/images/img_1.png");
+
+background-size: cover;
+height: 100vh;
+width: 100%;
+background-position: 50% 50%;
+}
+.main h1
+{
+	font-size: 3rem;
+	font-weight: 600;
+	color: #fff;
+
+
+}
+.btn1
+{
+	height: 45px;
+	width: 35%;
+	border:none;
+	outline: none;
+	background-color: red;
+	font-weight: 700;
+	border-radius: 60px;
+	color: white;
+	margin-left: 200px;
+}
+.btn2
+{
+	height: 45px;
+	width: 35%;
+	border:none;
+	outline: none;
+	background-color: orange;
+	font-weight: 700;
+	border-radius: 60px;
+	color: white;
+}
+
+.col-6
+{
+	background-color: lightblue;
+}
+
+.text-decoration-underline
+{
+	text-align: center;
+	color: blue;
+}
+.text-decoration-underline:hover
+{
+	color: red;
+}
+.image1
+{
+	height: 70px;
+	width: 70px;
+}
+
+.col-md-4
+{
+	height: 70px;
+	width: 70px;
+}
+.image2
+{
+	height: 70px;
+	width: 70px;
+}
+
+.image3
+{
+	height: 70px;
+	width: 70px;
+}
+
+.image4
+{
+	height: 70px;
+	width: 70px;
+}
+
+.image5
+{
+	height: 70px;
+	width: 70px;
+}
+.image6
+{
+	height: 70px;
+	width: 70px;
+}
+.image7
+{
+	height: 70px;
+	width: 70px;
+}.image8
+{
+	height: 70px;
+	width: 70px;
+}
+.btn3
+{
+	height: 45px;
+	width: 35%;
+	border:none;
+	outline: none;
+	background-color: blue;
+	font-weight: 700;
+	border-radius: 60px;
+	color: white;
+	margin-left: 420px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+
+.text1
+{
+	text-align: center;
+	margin-left: 50px;
+	color: purple;
+	font-size: 20px;
+}
+.para
+{
+	text-align: center;
+}
+.btns
+{
+	height: 350px;
+	width: 1000px;
+	border: 2px solid black;
+	margin: auto;
+	background-image: url("/static/images/code10.jpg"	);
+	background-size: 1000px 350px;
+	background-repeat: no-repeat;
+	margin-left: 120px;
+	margin-top: 25px;
+
+}
+
+.footer-col1
+{
+	margin-left: 300px;
+	margin-bottom: 500px;
+	height: 200px;
+}
+.footer-col
+{
+	margin-top: 400px;
+}
+.btn btn-primary
+{
+	margin-left: 40px;
+	margin-top: 100px;
+}
+.key-img
+{
+
+	height: 350px;
+	width: 1000px;
+}
+
+
+.logo
+{
+	height: 40px;
+	width: 40px;
+}
+.col-6
+{
+	background-color: lightblue;
+}
+.logo1
+{
+	height: 40px;
+	width: 40px;
+}
+.logo2
+{
+	height: 40px;
+	width: 40px;
+}
+.logo4
+{
+	height: 40px;
+	width: 40px;
+}
+.logo5
+{
+	height: 40px;
+	width: 40px;
+}
+.logo6
+{
+	height: 40px;
+	width: 40px;
+}
+.logo7
+{
+	height: 40px;
+	width: 40px;
+}
+.logo8
+{
+	height: 40px;
+	width: 40px;
+}
+.text
+{
+	text-align: center;
+	color: purple;
+	font-size: 20px;
+}
+footer{
+width: 100%;
+height: 300px;
+background: gray;
+display: grid;
+grid-gap: 20px;
+grid-template-columns: repeat(3, 1fr);
+margin-top: 20px;
+
+
+}
+ li
+{
+
+	list-style: none;
+	font-size:20px;
+
+}
+li:first-child
+{
+	font-size: 30px;
+	padding-bottom: 0.5 rem;
+	border-bottom: #444 solid 2px;
+	margin-bottom: 1rem;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+}
+.heading
+{
+	margin-left: 300px;
+	margin-top: 100px;
+	color: white;
+}
+.heading1
+{
+
+   margin-left:200px ;
+   margin-top: 40px;
+	color: white;
+}
+
+
+
